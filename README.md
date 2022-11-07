@@ -5,7 +5,7 @@ Contenidos de clase
 https://drive.google.com/drive/u/1/folders/12oGIvfCCubKfUiEms4t7sovSL3qyvxCL
 
 ## Calendario
-https://drive.google.com/drive/u/1/folders/1_VZuVtHH5zG_zo33Ajbp58pfvRk3WVeU
+https://docs.google.com/spreadsheets/d/1zOHNVCdk2YNj1BnpbVxIOtX7cJrz3u57u7RFINwvu3Q/edit?usp=sharing
 
 ## Carpeta compartida para subir codigos
 https://drive.google.com/drive/u/1/folders/1eWc3bqNZRiDIdG2ords1RD7Px-FkW_MJ
