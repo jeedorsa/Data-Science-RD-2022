@@ -1,14 +1,14 @@
-# Data Science Unilever 2022
+# Data Science Republica Dominicana 2022
 Contenidos de clase
 
 ## Link de las clases grabadas
-https://drive.google.com/drive/folders/1bjbMWQikQuC0SaZ5t_QZrM_bD80znIyV?usp=sharing 
+https://drive.google.com/drive/u/1/folders/12oGIvfCCubKfUiEms4t7sovSL3qyvxCL
 
 ## Calendario
-https://docs.google.com/spreadsheets/d/1SmnR3WEfGtzALsan7dwhDkFLhgDRKuEI6_LbgUpeZfw/edit#gid=0
+https://drive.google.com/drive/u/1/folders/1_VZuVtHH5zG_zo33Ajbp58pfvRk3WVeU
 
 ## Carpeta compartida para subir codigos
-https://drive.google.com/drive/folders/1wRrkm6Pan20D2nCacjhrk1eQZecNn_k0?usp=sharing
+https://drive.google.com/drive/u/1/folders/1eWc3bqNZRiDIdG2ords1RD7Px-FkW_MJ
 
 ## Información adicional
 -https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/
